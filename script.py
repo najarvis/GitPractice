@@ -1,3 +1,3 @@
 print("Hello, world!")
 
-print("This stuff rocks")
+print("This stuff is cool")
