@@ -1,3 +1,4 @@
 print("Hello, world!")
 
-print("This stuff rocks")
+print("This code rocks")
+
